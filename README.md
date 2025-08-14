@@ -4,7 +4,8 @@ This repository is dedicated to my journey in learning **Data Structures and Alg
 
 ## Data Structures
 
-### 1. [Arrays](src/main/java/arrays/README.md)
+### 1. [Arrays](src/main/java/arrays)
 
 - [Search Algorithms](src/main/java/arrays/search_algorithms/README.md)
-  - [Linear Search](src/main/java/arrays/search_algorithms/linear_search/README.md)
+  - [Linear Search](src/main/java/arrays/search_algorithms/linear_search)
+  - [Binary Search](src/main/java/arrays/search_algorithms/binary_search)
